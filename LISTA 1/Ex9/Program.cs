@@ -38,6 +38,8 @@ namespace Ex9
             {
                 Console.WriteLine("Os lados não correspondem a um triângulo válido.");
             }
+
+            Console.ReadKey();
         }
     }
 }
