@@ -7,7 +7,7 @@
     <ProjectGuid>{E21DB14B-659D-49D7-8183-DE5555085D69}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Ex_11</RootNamespace>
-    <AssemblyName>Ex_11</AssemblyName>
+    <AssemblyName>Ex 11</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
